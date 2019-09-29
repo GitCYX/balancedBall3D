@@ -1,0 +1,1813 @@
+2019-09-28 12:17:30-error: [Editor] (node:2444) [DEP0106] DeprecationWarning: crypto.createDecipher is deprecated.
+2019-09-28 12:17:31-log: [Editor] preferences@1.0.0 enable
+2019-09-28 12:17:33-log: [Editor] Parse [F:/Creaer3DEngine/CocosCreator3D/resources/resources/3d/engine/index.ts] : walk 477  files.
+2019-09-28 12:17:33-log: [Editor] Parse [F:/Creaer3DEngine/CocosCreator3D/resources/resources/3d/engine/index.ts]: 1770.189ms
+2019-09-28 12:17:34-log: [Editor] QuickCompiler compileFinished: 39.659ms
+2019-09-28 12:17:34-log: [Editor] QuickCompiler rebuild finished: 1894.141ms
+2019-09-28 12:17:34-log: [Editor] engine@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] asset-db@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] console@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] scene@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] ui-kit@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] assets@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] inspector@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] hierarchy@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] packager@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] project-setting@1.0.0 enable
+2019-09-28 12:17:34-log: [Editor] preview@1.0.0 enable
+2019-09-28 12:17:35-log: [Editor] builder@1.0.0 enable
+2019-09-28 12:17:35-log: [Editor] animator@1.0.0 enable
+2019-09-28 12:17:35-log: [Editor] about@1.0.0 enable
+2019-09-28 12:17:35-log: [Editor] tester@1.0.0 enable
+2019-09-28 12:17:35-log: [Editor] ipc@1.0.0 enable
+2019-09-28 12:17:35-log: [Editor] profile@1.0.0 enable
+2019-09-28 12:17:35-error: [Scene] (node:732) [DEP0106] DeprecationWarning: crypto.createDecipher is deprecated.
+2019-09-28 15:40:05-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 15:40:05-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 15:40:14-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 15:40:14-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 15:40:14-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 15:40:20-error: [Editor] [preview-error]Uncaught TypeError: Cannot assign to read only property 'x' of object '[object Object]' in http://localhost:7456/engine-dev/cocos/core/math/vec3.js
+
+            
+2019-09-28 15:42:23-error: [Editor] [preview-error]Uncaught TypeError: Cannot assign to read only property 'x' of object '[object Object]' in http://localhost:7456/engine-dev/cocos/core/math/vec3.js
+
+            
+2019-09-28 15:45:01-error: [Editor] [preview-error]Uncaught TypeError: Cannot assign to read only property 'x' of object '[object Object]' in http://localhost:7456/engine-dev/cocos/core/math/vec3.js
+
+            
+2019-09-28 15:48:41-error: [Editor] [preview-error]Uncaught TypeError: Cannot assign to read only property 'x' of object '[object Object]' in http://localhost:7456/engine-dev/cocos/core/math/vec3.js
+
+            
+2019-09-28 15:52:46-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 15:52:51-error: [Editor] [preview-error]Uncaught TypeError: Cannot assign to read only property 'x' of object '[object Object]' in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 15:58:01-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 15:59:00-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:50-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:51-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:52-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:53-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:54-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:55-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:56-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:57-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:58-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:03:59-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:00-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:01-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:02-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:03-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:04-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:05-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:06-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:07-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:08-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:04:09-error: [Editor] [preview-error]Uncaught TypeError: cc.director.getPhysicsManager is not a function in http://localhost:7456/preview-scripts/assets/Script/GameController.ts
+
+            
+2019-09-28 16:17:28-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
+2019-09-28 17:02:57-info: [Editor] asset(F:\GithubProj\balancedBall3D\Game\assets\Scene\Game.scene) saved
